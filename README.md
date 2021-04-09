@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deboravilla. I’m a university systems analyst and I’m an advanced student of information systems engineering.
-- 👀 I’m interested in learn programming to complement my professional profile.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested work as a functional analyst or data analyst and learn programming to complement my professional profile.
+- 🌱 I’m currently learning power bi, sql and python.
 - 📫 How to reach me ... https://www.linkedin.com/in/debora-janet-villa-24738b14b/
 
 <!---
